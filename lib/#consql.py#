@@ -1,9 +1,0 @@
-#!/usr/bin/env python
-
-import MySQLdb
-
-class SqlHandler:
-    
-    def __init__(self, user, password, hostname):
-        self.handler= MySQLdb.connect(user,'root','123123',db='todo')
-        return self.handler
