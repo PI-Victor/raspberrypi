@@ -1,0 +1,112 @@
+2014-03-01 19:09:46 ---Server Start 
+2014-03-01 19:09:47 ---Server Start 
+2014-03-01 19:10:12 ---Server Start 
+2014-03-01 19:27:48 ---Server Start 
+2014-03-01 19:27:49 ---Server Start 
+2014-03-01 19:31:13 ---Server Start 
+2014-03-01 19:37:48 ---Server Start 
+2014-03-01 19:37:49 ---Server Start 
+2014-03-01 19:38:28 ---Server Start 
+2014-03-01 19:44:07 ---Server Start 
+2014-03-01 19:45:32 ---Server Start 
+2014-03-01 19:47:37 ---Server Start 
+2014-03-01 19:48:15 ---Server Start 
+2014-03-01 19:49:10 ---Server Start 
+2014-03-01 19:49:11 ---Server Start 
+2014-03-01 19:49:10 Scheduler started every 60 
+2014-03-01 19:49:11 Scheduler started every 60 
+2014-03-01 19:50:30 ---Server Start 
+2014-03-01 19:50:32 ---Server Start 
+2014-03-01 19:50:30 Scheduler started every 5 
+2014-03-01 19:50:32 Scheduler started every 5 
+2014-03-01 19:51:02 ---Server Start 
+2014-03-01 19:51:02 Scheduler started every 5 
+2014-03-01 19:51:23 ---Server Start 
+2014-03-01 19:51:23 Scheduler started every 5 
+2014-03-01 19:51:23  
+2014-03-01 19:51:48 ---Server Start 
+2014-03-01 19:51:48 Scheduler started every 5 
+2014-03-01 19:51:48  
+2014-03-01 19:54:38 ---Server Start 
+2014-03-01 19:54:38 Scheduler started every 5 
+2014-03-01 19:54:38  
+2014-03-01 19:54:56 ---Server Start 
+2014-03-01 20:11:42 ---Server Start 
+2014-03-01 20:11:43 ---Server Start 
+2014-03-01 20:11:57 From get_rec in DbQuery :  SELECT * FROM specs 
+2014-03-01 20:12:03 From get_rec in DbQuery :  SELECT * FROM specs 
+2014-03-01 20:13:00 ---Server Start 
+2014-03-01 20:13:02 ---Server Start 
+2014-03-01 20:15:43 ---Server Start 
+2014-03-01 20:15:44 ---Server Start 
+2014-03-01 20:16:35 ---Server Start 
+2014-03-01 20:16:36 ---Server Start 
+2014-03-01 20:17:51 ---Server Start 
+2014-03-01 20:17:53 ---Server Start 
+2014-03-01 20:21:38 ---Server Start 
+2014-03-01 20:21:39 ---Server Start 
+2014-03-01 20:23:26 ---Server Start 
+2014-03-01 20:23:28 ---Server Start 
+2014-03-01 20:23:49 ---Server Start 
+2014-03-01 20:23:51 ---Server Start 
+2014-03-01 20:23:49 Scheduler started every 5 
+2014-03-01 20:23:49 Executed 
+2014-03-01 20:23:51 Scheduler started every 5 
+2014-03-01 20:23:51 Executed 
+2014-03-01 20:27:55 ---Server Start 
+2014-03-01 20:27:55 Scheduler started every 5 
+2014-03-01 20:28:06 ---Server Start 
+2014-03-01 20:28:07 ---Server Start 
+2014-03-01 20:28:07 Scheduler started every 5 
+2014-03-01 20:28:07 Executed 
+2014-03-01 20:28:35 ---Server Start 
+2014-03-01 20:28:35 Scheduler started every 5 
+2014-03-01 20:28:35 Executed 
+2014-03-01 20:28:48 ---Server Start 
+2014-03-01 20:28:48 Scheduler started every 5 
+2014-03-01 20:28:48 Executed 
+2014-03-01 20:32:50 ---Server Start 
+2014-03-01 20:32:50 Scheduler started every 5 
+2014-03-01 20:32:56 ---Server Start 
+2014-03-01 20:28:06 Scheduler started every 5 
+2014-03-01 20:28:06 Executed 
+2014-03-01 20:32:56 Scheduler started every 5 
+2014-03-01 20:32:56 Executed 
+2014-03-01 20:32:56 Executed 
+2014-03-01 20:32:56 Executed 
+2014-03-01 20:32:56 Executed 
+2014-03-01 20:32:56 Executed 
+2014-03-01 20:32:56 Executed 
+2014-03-01 20:39:35 ---Server Start 
+2014-03-01 20:39:37 ---Server Start 
+2014-03-01 20:39:35 Scheduler started every 5 
+2014-03-01 20:39:35 Executed 
+2014-03-01 20:39:35 Executed 
+2014-03-01 20:39:35 Executed 
+2014-03-01 20:39:37 Scheduler started every 5 
+2014-03-01 20:39:37 Executed 
+2014-03-01 20:39:37 Executed 
+2014-03-01 20:39:37 Executed 
+2014-03-01 20:58:30 ---Server Start 
+2014-03-01 20:58:30 Scheduler started every 5 
+2014-03-01 20:58:30 Scheduler started every 5 
+2014-03-01 20:58:30 Executed 
+2014-03-01 20:58:59 ---Server Start 
+2014-03-01 20:59:00 ---Server Start 
+2014-03-01 20:58:59 Scheduler started every 5 
+2014-03-01 20:58:59 Executed 
+2014-03-01 20:58:59 Executed 
+2014-03-01 20:58:59 Executed 
+2014-03-01 20:58:59 Executed 
+2014-03-01 20:59:00 Scheduler started every 5 
+2014-03-01 20:59:00 Executed 
+2014-03-01 20:59:00 Executed 
+2014-03-01 20:59:00 Executed 
+2014-03-01 20:59:00 Executed 
+2014-03-01 21:33:09 ---Server Start 
+2014-03-01 21:33:26 ---Server Start 
+2014-03-01 21:33:26 Scheduler started every 5 
+2014-03-01 21:35:39 ---Server Start 
+2014-03-01 21:35:39 Scheduler started every 5 
+2014-03-01 21:36:11 ---Server Start 
+2014-03-01 21:36:11 Scheduler started every 5 

@@ -7,12 +7,12 @@
     <title>{{ get('title', 'No title')}}</title>
 
     <!-- Bootstrap -->
-    <link href={{get_url('static',filename='css/bootstrap.min.css')}} rel="stylesheet">
+    <link href={{get_url('static', filename='css/custom.css')}} rel="stylesheet">
+    <link href={{get_url('static', filename='css/bootstrap.min.css')}} rel="stylesheet">
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src={{get_url('static',filename='js/bootstrap.min.js')}} rel="stylesheet"></script>
-
+    <script src={{get_url('static', filename='js/bootstrap.min.js')}} rel="stylesheet"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -32,6 +32,13 @@
 	</div>
       </nav>
       %include
+    </div>
+    <div id="footer">
+      <div class="container">
+	<div class="col-md-8">
+	  <p></p>
+	</div>
+      </div>
     </div>
   </body>
 </html>
