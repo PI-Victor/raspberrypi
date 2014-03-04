@@ -26,7 +26,5 @@ def get_usage(title=''):
 if __name__ == '__main__':
     #REMEMBER TO RUN DATA COLLECTION BEFORE STARTING THE SERVER
     #data_collect() and write to db, so server can take it from there when it starts
-    ProcessLog().wrlog('---Server Start')
-    Scheduler().start()
-#    Scheduler().join()
+    Collector()
     run(host='192.168.15.103',port=5050,reloader=True, debug=True)

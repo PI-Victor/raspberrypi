@@ -10,12 +10,11 @@ class DbQuery(object):
         self.db = 'db/raspdb.db'
         self.con = sqlite3.connect(self.db)
         self.c = self.con.cursor()
-        self.logger = ProcessLog()
 
     def get_rec(self,table):
         self.gettag = "From get_rec in DbQuery : "
         selrec = "SELECT * FROM " + table
-        self.logger.wrlog(' '.join([self.gettag,selrec]))
+        ProcessLog(' '.join([self.gettag,selrec]))
         c = self.c.execute(selrec)
         result = c.fetchall()
         c.close()
