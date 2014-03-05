@@ -9,10 +9,12 @@ class Scheduler(threading.Thread):
     '''
     def __init__(self):
         threading.Thread.__init__(self)
-#        self.daemon = True
         self.snooze = 10
-
+        self.gettag = "Scheduler started every %s" % self.snooze + " seconds"
+        ProcessLog(self.gettag)
+        
     def run(self):
+        ProcessLog("Thread Run")
         while True:
             ProcessLog(self.get_sysinfo())
             time.sleep(self.snooze)
@@ -28,16 +30,11 @@ class Collector(object):
     '''
     def __init__(self):
         ProcessLog("===Server Started===")
-        self.start_collector()
 
     def start_collector(self):
-        self.snooze = 10
         sch = Scheduler()
-        self.gettag = "Scheduler started every %s" % self.snooze + " seconds"
-        ProcessLog(self.gettag)
         sch.daemon = True
         sch.start()
-
 
 class ProcessLog(object):
     '''
