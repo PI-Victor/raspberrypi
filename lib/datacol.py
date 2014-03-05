@@ -7,12 +7,22 @@ class Scheduler(threading.Thread):
         every 30 second.
         saves a log
     '''
+<<<<<<< HEAD
 #    def __init__(self):
 #        threading.Thread.__init__(self)
 #        self.daemon = True
     snooze = 10
 
+=======
+    def __init__(self):
+        threading.Thread.__init__(self)
+        self.snooze = 10
+        self.gettag = "Scheduler started every %s" % self.snooze + " seconds"
+        ProcessLog(self.gettag)
+        
+>>>>>>> 2cc6ce2bc0c02962ae28e3f60b71fda1eb22a9ed
     def run(self):
+        ProcessLog("Thread Run")
         while True:
             ProcessLog(self.get_sysinfo())
             time.sleep(self.snooze)
@@ -26,6 +36,7 @@ class Collector(object):
         These are the function to be executed by the scheduler
         system collection and later on insertion to SQL
     '''
+<<<<<<< HEAD
     def get_sysinfo(self):
         while True:
             time.sleep(self.snooze)
@@ -43,6 +54,15 @@ class Collector(object):
       #  t.daemon = True
    #     t.start()
          
+=======
+    def __init__(self):
+        ProcessLog("===Server Started===")
+
+    def start_collector(self):
+        sch = Scheduler()
+        sch.daemon = True
+        sch.start()
+>>>>>>> 2cc6ce2bc0c02962ae28e3f60b71fda1eb22a9ed
 
 class ProcessLog(object):
     '''

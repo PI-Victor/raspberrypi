@@ -8,5 +8,5 @@ fi
 while true; do
     read -p `echo -e "Restart:\n"`
     service uwsgi restart
-
+    
 done

@@ -1,0 +1,4 @@
+  File "./rbpi.py", line 31
+    <<<<<<< HEAD
+     ^
+IndentationError: expected an indented block
