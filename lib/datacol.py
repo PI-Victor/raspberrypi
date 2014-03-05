@@ -7,16 +7,16 @@ class Scheduler(threading.Thread):
         every 30 second.
         saves a log
     '''
-    def __init__(self):
-        threading.Thread.__init__(self)
+#    def __init__(self):
+#        threading.Thread.__init__(self)
 #        self.daemon = True
-        self.snooze = 10
+    snooze = 10
 
     def run(self):
         while True:
             ProcessLog(self.get_sysinfo())
             time.sleep(self.snooze)
-
+            return
     def get_sysinfo(self):
         return str(platform.uname())
 
@@ -26,18 +26,23 @@ class Collector(object):
         These are the function to be executed by the scheduler
         system collection and later on insertion to SQL
     '''
-    def __init__(self):
-        ProcessLog("===Server Started===")
-        self.start_collector()
+    def get_sysinfo(self):
+        while True:
+            time.sleep(self.snooze)
+            ProcessLog(str(platform.uname()))
 
     def start_collector(self):
-        self.snooze = 10
-        sch = Scheduler()
-        self.gettag = "Scheduler started every %s" % self.snooze + " seconds"
+        ProcessLog("===Server Started===")
+      #  self.snooze = 5
+        self.gettag = "Scheduler started every %s" % 10 + " seconds"
         ProcessLog(self.gettag)
-        sch.daemon = True
-        sch.start()
-
+        thread = Scheduler()
+        thread.daemon = True
+        thread.start()
+    #    t = threading.Thread(target=self.get_sysinfo)
+      #  t.daemon = True
+   #     t.start()
+         
 
 class ProcessLog(object):
     '''
@@ -60,7 +65,7 @@ ogs'))
 
     def wrlog(self, datastr):
         self.fileh.write(' '.join([self.get_time(), datastr, '\n']))
-#        print "got here"
+        print "got here"
 
     def get_time(self):
         return strftime("%Y-%m-%d %H:%M:%S", gmtime())
