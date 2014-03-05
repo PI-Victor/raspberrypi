@@ -1,5 +1,7 @@
-import threading, os, platform, time, threading
+import threading, os, platform, time, psutil as ps
 from time import gmtime, strftime
+from lib.sqlhandler import DbQuery as db
+
 
 class Scheduler(threading.Thread):
     '''
@@ -7,28 +9,28 @@ class Scheduler(threading.Thread):
         every 30 second.
         saves a log
     '''
-<<<<<<< HEAD
-#    def __init__(self):
-#        threading.Thread.__init__(self)
-#        self.daemon = True
-    snooze = 10
+    snooze = 5
+    gettag = "Scheduler started every %s" % snooze + " seconds"
 
-=======
     def __init__(self):
+
         threading.Thread.__init__(self)
-        self.snooze = 10
-        self.gettag = "Scheduler started every %s" % self.snooze + " seconds"
         ProcessLog(self.gettag)
-        
->>>>>>> 2cc6ce2bc0c02962ae28e3f60b71fda1eb22a9ed
+        self.daemon = True
+
     def run(self):
-        ProcessLog("Thread Run")
         while True:
-            ProcessLog(self.get_sysinfo())
-            time.sleep(self.snooze)
-            return
-    def get_sysinfo(self):
-        return str(platform.uname())
+            temp = self.get_sysusage() 
+            ProcessLog(temp)
+            ProcessLog(str(db().ins_rec('usage',temp)))
+            time.sleep(self.snooze-1)
+
+    def get_sysusage(self):
+        ''' 1st CPU Usage - 1 s delay for better cpu usage pull
+            2nd % of used memory
+            3rd % of swap used
+        '''
+        return ', '.join([str(ps.cpu_percent(1)), str(ps.virtual_memory()[2]) , str(ps.swap_memory()[3])])
 
 
 class Collector(object):
@@ -36,33 +38,11 @@ class Collector(object):
         These are the function to be executed by the scheduler
         system collection and later on insertion to SQL
     '''
-<<<<<<< HEAD
-    def get_sysinfo(self):
-        while True:
-            time.sleep(self.snooze)
-            ProcessLog(str(platform.uname()))
-
+    gettag = "---=Server Start=---"
     def start_collector(self):
-        ProcessLog("===Server Started===")
-      #  self.snooze = 5
-        self.gettag = "Scheduler started every %s" % 10 + " seconds"
         ProcessLog(self.gettag)
         thread = Scheduler()
-        thread.daemon = True
         thread.start()
-    #    t = threading.Thread(target=self.get_sysinfo)
-      #  t.daemon = True
-   #     t.start()
-         
-=======
-    def __init__(self):
-        ProcessLog("===Server Started===")
-
-    def start_collector(self):
-        sch = Scheduler()
-        sch.daemon = True
-        sch.start()
->>>>>>> 2cc6ce2bc0c02962ae28e3f60b71fda1eb22a9ed
 
 class ProcessLog(object):
     '''
@@ -85,11 +65,6 @@ ogs'))
 
     def wrlog(self, datastr):
         self.fileh.write(' '.join([self.get_time(), datastr, '\n']))
-        print "got here"
 
     def get_time(self):
         return strftime("%Y-%m-%d %H:%M:%S", gmtime())
-    
-
-        
-        

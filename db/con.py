@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 
 
-import sqlite3
+import sqlite3, time
 
 
 conn = sqlite3.connect('raspdb.db')
 c = conn.cursor()
-c.execute('insert into specs (cur_release) values (11111) ' )
-conn.commit()
-c.execute("select * from specs")
-result = str(c.fetchall())
-print  result.strip('/n')
+while True:
+    c.execute("select * from usage")
+    result = str(c.fetchall())
+    print result.strip(',')
+    time.sleep(5)

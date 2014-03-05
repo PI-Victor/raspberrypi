@@ -5,6 +5,14 @@ from lib.sqlhandler import *
 from lib.datacol import * 
 import sqlite3
 
+
+HOME = True
+
+if HOME:
+    adress = '192.168.15.103'
+else:
+    adress = '10.0.2.15'
+
 @route('/static/:filename#.*#', name='static')
 def server_static(filename):
     return static_file(filename, root='static')
@@ -17,7 +25,7 @@ def index(title=''):
 @route('/specs')
 @view('specs')
 def get_specs(title=''):
-    results = DbQuery().get_rec('specs')
+    results = DbQuery().get_rec('usage')
     return {'title': 'Specifications Raspberry Pi', 'results' : results ,'get_url' : url }
 
 @route('/usage')
@@ -28,12 +36,6 @@ def get_usage(title=''):
 if __name__ == '__main__':
     #REMEMBER TO RUN DATA COLLECTION BEFORE STARTING THE SERVER
     #data_collect() and write to db, so server can take it from there when it starts
-<<<<<<< HEAD
-    collect = Collector().start_collector()
-#    collect.start_collector()
-    run(host='192.168.15.103',port=5050,reloader=True, debug=True)
-=======
     col = Collector()
     col.start_collector()
-    run(host='10.0.2.15',port=5050,debug=True)
->>>>>>> 2cc6ce2bc0c02962ae28e3f60b71fda1eb22a9ed
+    run(host=adress,port=5050,debug=True)
