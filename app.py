@@ -1,5 +1,6 @@
 import sys, os, time, atexit
 from signal import SIGTERM
+import psutil
 
 '''
 no reason to reinvent the wheel, daemon from : 
@@ -137,8 +138,15 @@ class Daemon:
 class MyDaemon(Daemon):
         def run(self):
                 while True:
-                        time.sleep(1)
+                        collect_stats()
+                        time.sleep(5)
  
+def collect_stats():
+        cpu_time = psutil.cpu_times_percent(interval=1, percpu=False)
+        file_handler = open('/home/vectra/projects/debug.log','a')
+        file_handler.write(str(cpu_time))
+        file_handler.close()
+
 if __name__ == "__main__":
         daemon = MyDaemon('/tmp/daemon-example.pid')
         if len(sys.argv) == 2:
