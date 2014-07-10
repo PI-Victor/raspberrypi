@@ -1,16 +1,19 @@
+import sys
+from collection.daemon import Daemon
 import psutil
 
 class MyDaemon(Daemon):
         def run(self):
                 while True:
+                        print "IT STARTED"
                         self.collect_stats()
                         time.sleep(5)
 
         def collect_stats(self):
                 cpu_time = psutil.cpu_times_percent(interval=1, percpu=False)
-                file_handler = open('/home/vectra/projects/debug.log','a')
-                file_handler.write(str(cpu_time))
-                file_handler.close()
+                flh = open('debug.log','a')
+                flh.write(str(cpu_time))
+#                print cpu_time
 
 
 if __name__ == "__main__":

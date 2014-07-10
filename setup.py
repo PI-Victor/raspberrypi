@@ -15,7 +15,8 @@ config = {
     'install_requires':[
         'flask',
         'pygal',
-        'sqlalchemy'
+        'sqlalchemy',
+        'psutil',
     ],
 }
 
