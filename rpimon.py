@@ -27,6 +27,15 @@ def load_debugger():
 #with unpriviliged user, hard code for now
 
 class MyDaemon(Daemon):
+'''leave the daemon as it is, just override init to
+specify output source for debugging
+'''
+        def __init__(self):
+                self.stdin =
+                self.stdout =
+                self.stderr =
+                self.pidfile = 
+                
         def run(self):
                 while True:
                         self.collect_stats()
