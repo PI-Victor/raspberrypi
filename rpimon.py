@@ -1,6 +1,13 @@
 import sys
 from collection.daemon import Daemon
 import psutil
+import time
+
+#just assign a temp path so that the log can be created
+#daemon starts in / as work dir, can't create log there 
+#with unpriviliged user, hard code for now
+
+log_path = '/home/vectra/projects/raspberrypy/debug.log'
 
 class MyDaemon(Daemon):
         def run(self):
@@ -11,7 +18,7 @@ class MyDaemon(Daemon):
 
         def collect_stats(self):
                 cpu_time = psutil.cpu_times_percent(interval=1, percpu=False)
-                flh = open('debug.log','a')
+                flh = open(log_path,'a')
                 flh.write(str(cpu_time))
 #                print cpu_time
 
