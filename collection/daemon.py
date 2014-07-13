@@ -11,10 +11,9 @@ http://www.jejik.com/articles/2007/02/a_simple_unix_linux_daemon_in_python/
 class Daemon:
         """
         A generic daemon class.
-       
         Usage: subclass the Daemon class and override the run() method
         """
-        def __init__(self, pidfile, stdin='/home/vectra/projects/raspberrypy/debug.log', stdout='/home/vectra/projects/raspberrypy/debug.log', stderr='/home/vectra/projects/raspberrypy/debug.log'):
+        def __init__(self, pidfile, stdin='/dev/null', stdout='/dev/null', stderr='/dev/null'):
                 self.stdin = stdin
                 self.stdout = stdout
                 self.stderr = stderr
