@@ -10,7 +10,7 @@ pid_path='/tmp/rpimon.pid'
 workdir=os.path.dirname(os.path.realpath(__file__))
 debug_log = '/'.join([workdir,'logs','debug.log'])
 
-if not os.path.isdir(debug_log):
+if not os.path.isdir(os.path.dirname(debug_log)):
         try:
                 os.makedirs(os.path.dirname(debug_log))
         except OSError as e:
