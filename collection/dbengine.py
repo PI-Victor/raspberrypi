@@ -1,19 +1,19 @@
 import sqlalchemy
 
-
 path = '/home/vectra/projects/raspberrypi/db/desk.db'
 
-db = create_engine('sqlite:///%s' %path)
+db = sqlalchemy.create_engine('sqlite:///%s' %path)
 
-metadata = BoundMetaData(db)
+metadata = sqlalchemy.BoundMetaData(db)
 
-metrics = Table('os_metrics', metadata,
+metrics = sqlalchemy.Table('os_metrics', metadata,
                 Column('id', Integer, primary_key=True),
                 Column('cpu_load', float),
                 Column('cpu_percent' float),
                 Column('swap_memory', float)
             )
 
-specs = Table('OS', metadata,
-              Column(id, Integer, primary_key=True),
+specs = sqlalchemy.Table('OS', metadata,
+              sqlalchemy.Column(id, Integer, primary_key=True),
+              
 )
