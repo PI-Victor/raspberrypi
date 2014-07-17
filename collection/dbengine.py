@@ -13,12 +13,12 @@ Base = sqlalchemy.declarative_base()
 class Metrics(Base):
     __tablename__ = 'os_metrics'
     id = sqlalchemy.Column(sqlalchemy.integer, sqlalchemy.primary_key=True)
-    cpu_load = sqlalchemy.Column(sqlalchemy.float)
-    cpu_percent = sqlalchemy.Column(sqlalchemy.float)
-    swap_memory = sqlalchemy.Column(sqlalchemy.float)
-    network_load = sqlalchemy.Column(sqlalchemy.float)
+    cpu_load = sqlalchemy.Column(sqlalchemy.Float)
+    cpu_percent = sqlalchemy.Column(sqlalchemy.Float)
+    swap_memory = sqlalchemy.Column(sqlalchemy.Float)
+    network_load = sqlalchemy.Column(sqlalchemy.Float)
 
 specs = sqlalchemy.Table('OS', metadata,
-              sqlalchemy.Column(id, sqlalchemy.Integer, sqlalchemy.primary_key=True),
+                sqlalchemy.Column(sqlalchemy.Integer, sqlalchemy.primary_key=True),
               
 )
