@@ -31,8 +31,7 @@ class MyDaemon(Daemon):
         def collect_stats(self):
                 cpu_time = psutil.cpu_times_percent(interval=1, percpu=False)
                 logging.info('Current CPU stats')
-                flh.write(str(cpu_time))
-
+                logging.info(str(cpu_time))
 
 if __name__ == "__main__":
         daemon = MyDaemon(pid_path)
