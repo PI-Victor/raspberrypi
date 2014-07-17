@@ -23,6 +23,9 @@ def load_debugger():
                             level = logging.DEBUG)
 
 class MyDaemon(Daemon):
+        def __init__(self, *args):
+                super(MyDaemon, self).__init__(*args)
+                
         def run(self):
                 while True:
                         self.collect_stats()
