@@ -1,0 +1,499 @@
+2014-07-17 06:14:17,709 INFO:Started Daemon
+
+2014-07-17 06:14:18,712 INFO:Current CPU stats
+2014-07-17 06:15:17,689 INFO:Restarted Daemon
+
+2014-07-17 06:15:18,692 INFO:Current CPU stats
+2014-07-17 06:15:18,693 INFO:scputimes(user=1.8, nice=0.0, system=0.8, idle=97.5, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:15:24,700 INFO:Current CPU stats
+2014-07-17 06:15:24,700 INFO:scputimes(user=3.0, nice=0.0, system=1.3, idle=95.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:15:30,707 INFO:Current CPU stats
+2014-07-17 06:15:30,707 INFO:scputimes(user=2.0, nice=0.0, system=1.0, idle=96.0, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:15:36,714 INFO:Current CPU stats
+2014-07-17 06:15:36,715 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=95.2, iowait=0.3, irq=2.3, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:15:42,722 INFO:Current CPU stats
+2014-07-17 06:15:42,722 INFO:scputimes(user=1.5, nice=0.0, system=0.7, idle=97.3, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:15:48,729 INFO:Current CPU stats
+2014-07-17 06:15:48,730 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.3, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:15:54,737 INFO:Current CPU stats
+2014-07-17 06:15:54,737 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.2, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:16:00,743 INFO:Current CPU stats
+2014-07-17 06:16:00,743 INFO:scputimes(user=2.3, nice=0.0, system=1.0, idle=96.5, iowait=0.3, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:16:06,746 INFO:Current CPU stats
+2014-07-17 06:16:06,746 INFO:scputimes(user=2.8, nice=0.0, system=0.8, idle=91.5, iowait=5.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:16:12,752 INFO:Current CPU stats
+2014-07-17 06:16:12,752 INFO:scputimes(user=1.7, nice=0.0, system=0.8, idle=97.5, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:16:18,755 INFO:Current CPU stats
+2014-07-17 06:16:18,755 INFO:scputimes(user=3.5, nice=0.0, system=1.5, idle=95.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:16:24,758 INFO:Current CPU stats
+2014-07-17 06:16:24,758 INFO:scputimes(user=3.0, nice=0.0, system=1.0, idle=95.3, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:16:30,764 INFO:Current CPU stats
+2014-07-17 06:16:30,764 INFO:scputimes(user=2.5, nice=0.0, system=0.8, idle=96.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:16:36,768 INFO:Current CPU stats
+2014-07-17 06:16:36,769 INFO:scputimes(user=2.2, nice=0.0, system=1.3, idle=96.0, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:16:42,776 INFO:Current CPU stats
+2014-07-17 06:16:42,776 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:16:48,783 INFO:Current CPU stats
+2014-07-17 06:16:48,784 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.5, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:16:54,791 INFO:Current CPU stats
+2014-07-17 06:16:54,791 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.2, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:17:00,794 INFO:Current CPU stats
+2014-07-17 06:17:00,794 INFO:scputimes(user=2.5, nice=0.0, system=1.0, idle=95.5, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:17:06,802 INFO:Current CPU stats
+2014-07-17 06:17:06,802 INFO:scputimes(user=1.5, nice=0.0, system=0.7, idle=96.7, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:17:12,806 INFO:Current CPU stats
+2014-07-17 06:17:12,807 INFO:scputimes(user=3.0, nice=1.0, system=1.7, idle=94.3, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:17:18,814 INFO:Current CPU stats
+2014-07-17 06:17:18,814 INFO:scputimes(user=4.0, nice=0.0, system=1.8, idle=94.2, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:17:24,821 INFO:Current CPU stats
+2014-07-17 06:17:24,822 INFO:scputimes(user=1.5, nice=0.0, system=0.5, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:17:30,829 INFO:Current CPU stats
+2014-07-17 06:17:30,829 INFO:scputimes(user=2.0, nice=1.5, system=2.3, idle=92.5, iowait=1.0, irq=0.8, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:17:36,836 INFO:Current CPU stats
+2014-07-17 06:17:36,837 INFO:scputimes(user=10.0, nice=1.5, system=4.0, idle=83.8, iowait=0.0, irq=0.7, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:17:42,841 INFO:Current CPU stats
+2014-07-17 06:17:42,841 INFO:scputimes(user=27.9, nice=1.0, system=5.5, idle=62.3, iowait=1.3, irq=2.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:17:48,843 INFO:Current CPU stats
+2014-07-17 06:17:48,844 INFO:scputimes(user=8.0, nice=1.5, system=3.8, idle=83.2, iowait=3.0, irq=0.5, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:17:54,849 INFO:Current CPU stats
+2014-07-17 06:17:54,863 INFO:scputimes(user=13.1, nice=0.8, system=3.5, idle=81.6, iowait=0.3, irq=0.8, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:18:00,870 INFO:Current CPU stats
+2014-07-17 06:18:00,870 INFO:scputimes(user=3.3, nice=1.3, system=2.0, idle=92.5, iowait=0.3, irq=0.8, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:18:06,876 INFO:Current CPU stats
+2014-07-17 06:18:06,877 INFO:scputimes(user=2.3, nice=1.3, system=2.3, idle=93.2, iowait=0.3, irq=0.8, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:18:12,882 INFO:Current CPU stats
+2014-07-17 06:18:12,883 INFO:scputimes(user=2.5, nice=1.5, system=2.5, idle=92.5, iowait=0.0, irq=1.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:18:18,886 INFO:Current CPU stats
+2014-07-17 06:18:18,887 INFO:scputimes(user=2.5, nice=1.5, system=2.5, idle=92.5, iowait=0.0, irq=1.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:18:24,894 INFO:Current CPU stats
+2014-07-17 06:18:24,894 INFO:scputimes(user=1.8, nice=1.3, system=2.3, idle=93.9, iowait=0.0, irq=0.8, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:18:30,897 INFO:Current CPU stats
+2014-07-17 06:18:30,897 INFO:scputimes(user=5.5, nice=1.5, system=2.7, idle=88.0, iowait=1.3, irq=1.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:18:36,904 INFO:Current CPU stats
+2014-07-17 06:18:36,905 INFO:scputimes(user=1.8, nice=1.5, system=2.8, idle=93.0, iowait=0.0, irq=1.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:18:42,912 INFO:Current CPU stats
+2014-07-17 06:18:42,912 INFO:scputimes(user=11.3, nice=1.0, system=4.3, idle=82.5, iowait=0.3, irq=0.8, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:18:48,918 INFO:Current CPU stats
+2014-07-17 06:18:48,918 INFO:scputimes(user=1.3, nice=1.8, system=3.0, idle=71.2, iowait=22.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:18:54,921 INFO:Current CPU stats
+2014-07-17 06:18:54,922 INFO:scputimes(user=1.0, nice=22.1, system=3.0, idle=64.7, iowait=9.3, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:19:00,928 INFO:Current CPU stats
+2014-07-17 06:19:00,928 INFO:scputimes(user=1.8, nice=16.3, system=2.5, idle=70.1, iowait=9.3, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:19:06,930 INFO:Current CPU stats
+2014-07-17 06:19:06,930 INFO:scputimes(user=1.3, nice=0.5, system=4.3, idle=93.4, iowait=0.0, irq=0.5, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:19:12,932 INFO:Current CPU stats
+2014-07-17 06:19:12,932 INFO:scputimes(user=18.3, nice=14.0, system=13.3, idle=44.5, iowait=9.5, irq=0.5, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:19:18,939 INFO:Current CPU stats
+2014-07-17 06:19:18,939 INFO:scputimes(user=1.3, nice=0.5, system=4.3, idle=87.8, iowait=5.6, irq=0.5, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:19:24,946 INFO:Current CPU stats
+2014-07-17 06:19:24,947 INFO:scputimes(user=2.0, nice=3.0, system=3.0, idle=70.7, iowait=21.0, irq=0.3, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:19:30,949 INFO:Current CPU stats
+2014-07-17 06:19:30,949 INFO:scputimes(user=1.3, nice=0.3, system=1.5, idle=97.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:19:36,951 INFO:Current CPU stats
+2014-07-17 06:19:36,952 INFO:scputimes(user=1.0, nice=6.0, system=2.3, idle=90.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:19:42,953 INFO:Current CPU stats
+2014-07-17 06:19:42,954 INFO:scputimes(user=1.3, nice=0.3, system=1.5, idle=90.7, iowait=6.0, irq=0.3, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:19:48,956 INFO:Current CPU stats
+2014-07-17 06:19:48,956 INFO:scputimes(user=2.0, nice=12.3, system=18.1, idle=65.2, iowait=1.5, irq=0.8, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:19:54,961 INFO:Current CPU stats
+2014-07-17 06:19:54,961 INFO:scputimes(user=1.3, nice=17.3, system=3.3, idle=70.9, iowait=7.3, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:20:00,968 INFO:Current CPU stats
+2014-07-17 06:20:00,968 INFO:scputimes(user=2.0, nice=2.5, system=4.3, idle=72.2, iowait=19.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:20:06,973 INFO:Current CPU stats
+2014-07-17 06:20:06,974 INFO:scputimes(user=1.3, nice=12.3, system=18.4, idle=68.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:20:12,976 INFO:Current CPU stats
+2014-07-17 06:20:12,976 INFO:scputimes(user=1.3, nice=25.8, system=2.3, idle=70.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:20:18,983 INFO:Current CPU stats
+2014-07-17 06:20:18,983 INFO:scputimes(user=6.5, nice=3.5, system=4.3, idle=61.5, iowait=24.2, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:20:24,990 INFO:Current CPU stats
+2014-07-17 06:20:24,990 INFO:scputimes(user=15.8, nice=0.5, system=3.3, idle=59.9, iowait=20.1, irq=0.5, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:20:30,997 INFO:Current CPU stats
+2014-07-17 06:20:30,997 INFO:scputimes(user=10.3, nice=2.3, system=3.3, idle=83.9, iowait=0.3, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:20:37,004 INFO:Current CPU stats
+2014-07-17 06:20:37,005 INFO:scputimes(user=16.7, nice=0.0, system=5.7, idle=76.3, iowait=1.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:20:43,012 INFO:Current CPU stats
+2014-07-17 06:20:43,012 INFO:scputimes(user=8.0, nice=0.0, system=3.3, idle=87.7, iowait=0.8, irq=0.3, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:20:49,019 INFO:Current CPU stats
+2014-07-17 06:20:49,019 INFO:scputimes(user=1.3, nice=43.9, system=3.8, idle=51.1, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:20:55,025 INFO:Current CPU stats
+2014-07-17 06:20:55,025 INFO:scputimes(user=1.0, nice=95.0, system=0.5, idle=3.2, iowait=0.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:21:01,032 INFO:Current CPU stats
+2014-07-17 06:21:01,032 INFO:scputimes(user=1.3, nice=24.5, system=1.0, idle=73.3, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:21:07,039 INFO:Current CPU stats
+2014-07-17 06:21:07,039 INFO:scputimes(user=1.7, nice=27.2, system=2.7, idle=67.2, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:21:13,045 INFO:Current CPU stats
+2014-07-17 06:21:13,045 INFO:scputimes(user=28.2, nice=22.2, system=7.7, idle=37.4, iowait=4.2, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:21:19,049 INFO:Current CPU stats
+2014-07-17 06:21:19,050 INFO:scputimes(user=12.3, nice=82.2, system=3.0, idle=2.0, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:21:25,052 INFO:Current CPU stats
+2014-07-17 06:21:25,052 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:21:31,056 INFO:Current CPU stats
+2014-07-17 06:21:31,056 INFO:scputimes(user=2.8, nice=0.0, system=1.5, idle=95.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:21:37,063 INFO:Current CPU stats
+2014-07-17 06:21:37,063 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:21:43,066 INFO:Current CPU stats
+2014-07-17 06:21:43,067 INFO:scputimes(user=3.5, nice=0.0, system=2.0, idle=94.5, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:21:49,074 INFO:Current CPU stats
+2014-07-17 06:21:49,074 INFO:scputimes(user=2.0, nice=0.0, system=0.7, idle=97.2, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:21:55,080 INFO:Current CPU stats
+2014-07-17 06:21:55,080 INFO:scputimes(user=4.8, nice=0.0, system=1.5, idle=93.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:22:01,087 INFO:Current CPU stats
+2014-07-17 06:22:01,087 INFO:scputimes(user=2.5, nice=0.0, system=0.8, idle=96.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:22:07,094 INFO:Current CPU stats
+2014-07-17 06:22:07,095 INFO:scputimes(user=2.0, nice=0.0, system=0.8, idle=97.3, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:22:13,102 INFO:Current CPU stats
+2014-07-17 06:22:13,102 INFO:scputimes(user=2.5, nice=0.0, system=0.8, idle=96.5, iowait=0.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:22:19,107 INFO:Current CPU stats
+2014-07-17 06:22:19,107 INFO:scputimes(user=2.3, nice=0.0, system=0.8, idle=96.2, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:22:25,112 INFO:Current CPU stats
+2014-07-17 06:22:25,113 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:22:31,119 INFO:Current CPU stats
+2014-07-17 06:22:31,120 INFO:scputimes(user=1.3, nice=0.0, system=0.7, idle=97.5, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:22:37,123 INFO:Current CPU stats
+2014-07-17 06:22:37,123 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=96.8, iowait=0.5, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:22:43,130 INFO:Current CPU stats
+2014-07-17 06:22:43,130 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=96.0, iowait=1.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:22:49,135 INFO:Current CPU stats
+2014-07-17 06:22:49,136 INFO:scputimes(user=1.7, nice=0.0, system=0.8, idle=96.8, iowait=0.7, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:22:55,143 INFO:Current CPU stats
+2014-07-17 06:22:55,143 INFO:scputimes(user=3.0, nice=0.0, system=1.0, idle=95.5, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:23:01,150 INFO:Current CPU stats
+2014-07-17 06:23:01,150 INFO:scputimes(user=1.7, nice=0.0, system=1.0, idle=96.5, iowait=0.5, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:23:07,153 INFO:Current CPU stats
+2014-07-17 06:23:07,154 INFO:scputimes(user=9.0, nice=0.0, system=3.0, idle=88.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:23:13,159 INFO:Current CPU stats
+2014-07-17 06:23:13,160 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:23:19,165 INFO:Current CPU stats
+2014-07-17 06:23:19,166 INFO:scputimes(user=1.5, nice=0.0, system=0.7, idle=96.8, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:23:25,173 INFO:Current CPU stats
+2014-07-17 06:23:25,173 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=97.0, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:23:31,180 INFO:Current CPU stats
+2014-07-17 06:23:31,181 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.5, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:23:37,188 INFO:Current CPU stats
+2014-07-17 06:23:37,188 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.0, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:23:43,195 INFO:Current CPU stats
+2014-07-17 06:23:43,196 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.0, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:23:49,203 INFO:Current CPU stats
+2014-07-17 06:23:49,203 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.5, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:23:55,210 INFO:Current CPU stats
+2014-07-17 06:23:55,211 INFO:scputimes(user=2.0, nice=0.0, system=0.8, idle=97.0, iowait=0.3, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:24:01,213 INFO:Current CPU stats
+2014-07-17 06:24:01,213 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:24:07,220 INFO:Current CPU stats
+2014-07-17 06:24:07,221 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:24:13,227 INFO:Current CPU stats
+2014-07-17 06:24:13,228 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.2, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:24:19,233 INFO:Current CPU stats
+2014-07-17 06:24:19,234 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.3, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:24:25,241 INFO:Current CPU stats
+2014-07-17 06:24:25,241 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=95.0, iowait=2.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:24:31,248 INFO:Current CPU stats
+2014-07-17 06:24:31,248 INFO:scputimes(user=1.2, nice=0.0, system=0.8, idle=97.7, iowait=0.2, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:24:37,256 INFO:Current CPU stats
+2014-07-17 06:24:37,256 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.2, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:24:43,261 INFO:Current CPU stats
+2014-07-17 06:24:43,262 INFO:scputimes(user=2.2, nice=0.0, system=1.0, idle=96.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:24:49,269 INFO:Current CPU stats
+2014-07-17 06:24:49,269 INFO:scputimes(user=1.5, nice=0.0, system=0.7, idle=97.5, iowait=0.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:24:55,277 INFO:Current CPU stats
+2014-07-17 06:24:55,277 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.2, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:25:01,279 INFO:Current CPU stats
+2014-07-17 06:25:01,280 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.5, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:25:07,286 INFO:Current CPU stats
+2014-07-17 06:25:07,287 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.0, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:25:13,294 INFO:Current CPU stats
+2014-07-17 06:25:13,294 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=96.3, iowait=1.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:25:19,301 INFO:Current CPU stats
+2014-07-17 06:25:19,302 INFO:scputimes(user=1.5, nice=0.0, system=0.7, idle=97.0, iowait=0.7, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:25:25,307 INFO:Current CPU stats
+2014-07-17 06:25:25,307 INFO:scputimes(user=1.7, nice=0.0, system=1.0, idle=96.5, iowait=0.5, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:25:31,311 INFO:Current CPU stats
+2014-07-17 06:25:31,312 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:25:37,317 INFO:Current CPU stats
+2014-07-17 06:25:37,317 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=97.5, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:25:43,324 INFO:Current CPU stats
+2014-07-17 06:25:43,324 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.7, iowait=0.3, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:25:49,330 INFO:Current CPU stats
+2014-07-17 06:25:49,331 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.5, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:25:55,338 INFO:Current CPU stats
+2014-07-17 06:25:55,338 INFO:scputimes(user=2.0, nice=0.0, system=1.0, idle=96.3, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:26:01,344 INFO:Current CPU stats
+2014-07-17 06:26:01,344 INFO:scputimes(user=2.8, nice=0.0, system=1.0, idle=95.7, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:26:07,348 INFO:Current CPU stats
+2014-07-17 06:26:07,348 INFO:scputimes(user=4.2, nice=0.0, system=1.2, idle=93.0, iowait=1.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:26:13,355 INFO:Current CPU stats
+2014-07-17 06:26:13,355 INFO:scputimes(user=2.0, nice=0.0, system=1.0, idle=96.5, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:26:19,361 INFO:Current CPU stats
+2014-07-17 06:26:19,362 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.2, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:26:25,364 INFO:Current CPU stats
+2014-07-17 06:26:25,364 INFO:scputimes(user=1.5, nice=0.0, system=0.5, idle=97.5, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:26:31,372 INFO:Current CPU stats
+2014-07-17 06:26:31,372 INFO:scputimes(user=3.0, nice=0.0, system=1.0, idle=95.0, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:26:37,375 INFO:Current CPU stats
+2014-07-17 06:26:37,376 INFO:scputimes(user=1.7, nice=0.0, system=1.0, idle=96.5, iowait=0.5, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:26:43,383 INFO:Current CPU stats
+2014-07-17 06:26:43,383 INFO:scputimes(user=1.7, nice=0.0, system=1.0, idle=96.5, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:26:49,390 INFO:Current CPU stats
+2014-07-17 06:26:49,390 INFO:scputimes(user=3.3, nice=0.0, system=1.3, idle=94.7, iowait=0.5, irq=0.3, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:26:55,397 INFO:Current CPU stats
+2014-07-17 06:26:55,398 INFO:scputimes(user=3.5, nice=0.0, system=1.3, idle=94.2, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:27:01,405 INFO:Current CPU stats
+2014-07-17 06:27:01,405 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=96.8, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:27:07,412 INFO:Current CPU stats
+2014-07-17 06:27:07,413 INFO:scputimes(user=2.5, nice=0.0, system=1.0, idle=95.7, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:27:13,420 INFO:Current CPU stats
+2014-07-17 06:27:13,420 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=97.0, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:27:19,427 INFO:Current CPU stats
+2014-07-17 06:27:19,427 INFO:scputimes(user=3.0, nice=0.0, system=1.2, idle=95.0, iowait=0.7, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:27:25,433 INFO:Current CPU stats
+2014-07-17 06:27:25,434 INFO:scputimes(user=2.8, nice=0.0, system=1.0, idle=95.7, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:27:31,439 INFO:Current CPU stats
+2014-07-17 06:27:31,439 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=97.2, iowait=0.3, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:27:37,446 INFO:Current CPU stats
+2014-07-17 06:27:37,447 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.5, iowait=0.3, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:27:43,452 INFO:Current CPU stats
+2014-07-17 06:27:43,452 INFO:scputimes(user=3.2, nice=0.0, system=1.2, idle=95.0, iowait=0.2, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:27:49,458 INFO:Current CPU stats
+2014-07-17 06:27:49,458 INFO:scputimes(user=3.5, nice=0.0, system=1.2, idle=95.3, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:27:55,465 INFO:Current CPU stats
+2014-07-17 06:27:55,465 INFO:scputimes(user=1.7, nice=0.0, system=1.0, idle=97.2, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:28:01,471 INFO:Current CPU stats
+2014-07-17 06:28:01,472 INFO:scputimes(user=3.2, nice=0.0, system=1.3, idle=95.5, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:28:07,475 INFO:Current CPU stats
+2014-07-17 06:28:07,475 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.0, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:28:13,482 INFO:Current CPU stats
+2014-07-17 06:28:13,482 INFO:scputimes(user=2.3, nice=0.0, system=1.0, idle=96.3, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:28:19,489 INFO:Current CPU stats
+2014-07-17 06:28:19,490 INFO:scputimes(user=1.7, nice=0.0, system=1.0, idle=96.0, iowait=1.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:28:25,497 INFO:Current CPU stats
+2014-07-17 06:28:25,497 INFO:scputimes(user=1.7, nice=0.0, system=0.8, idle=97.0, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:28:31,505 INFO:Current CPU stats
+2014-07-17 06:28:31,505 INFO:scputimes(user=5.3, nice=0.0, system=2.0, idle=91.8, iowait=0.8, irq=0.3, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:28:37,509 INFO:Current CPU stats
+2014-07-17 06:28:37,509 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.0, iowait=0.7, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:28:43,516 INFO:Current CPU stats
+2014-07-17 06:28:43,516 INFO:scputimes(user=1.5, nice=0.0, system=0.7, idle=97.0, iowait=0.5, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:28:49,523 INFO:Current CPU stats
+2014-07-17 06:28:49,524 INFO:scputimes(user=1.2, nice=0.0, system=0.7, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:28:55,531 INFO:Current CPU stats
+2014-07-17 06:28:55,531 INFO:scputimes(user=1.2, nice=0.0, system=1.0, idle=97.0, iowait=0.7, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:29:01,538 INFO:Current CPU stats
+2014-07-17 06:29:01,538 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:29:07,542 INFO:Current CPU stats
+2014-07-17 06:29:07,542 INFO:scputimes(user=1.2, nice=0.0, system=0.8, idle=97.0, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:29:13,549 INFO:Current CPU stats
+2014-07-17 06:29:13,550 INFO:scputimes(user=5.0, nice=0.0, system=1.5, idle=92.5, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:29:19,556 INFO:Current CPU stats
+2014-07-17 06:29:19,556 INFO:scputimes(user=1.5, nice=0.0, system=0.7, idle=97.0, iowait=0.7, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:29:25,563 INFO:Current CPU stats
+2014-07-17 06:29:25,564 INFO:scputimes(user=4.2, nice=0.0, system=1.5, idle=93.2, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:29:31,566 INFO:Current CPU stats
+2014-07-17 06:29:31,567 INFO:scputimes(user=2.2, nice=0.0, system=1.0, idle=95.8, iowait=0.7, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:29:37,574 INFO:Current CPU stats
+2014-07-17 06:29:37,574 INFO:scputimes(user=3.3, nice=0.0, system=1.3, idle=94.7, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:29:43,581 INFO:Current CPU stats
+2014-07-17 06:29:43,581 INFO:scputimes(user=2.3, nice=0.0, system=0.8, idle=96.0, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:29:49,588 INFO:Current CPU stats
+2014-07-17 06:29:49,589 INFO:scputimes(user=2.0, nice=0.0, system=1.0, idle=97.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:29:55,592 INFO:Current CPU stats
+2014-07-17 06:29:55,592 INFO:scputimes(user=2.2, nice=0.0, system=1.0, idle=96.5, iowait=0.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:30:01,599 INFO:Current CPU stats
+2014-07-17 06:30:01,599 INFO:scputimes(user=2.0, nice=0.0, system=0.8, idle=95.2, iowait=2.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:30:07,606 INFO:Current CPU stats
+2014-07-17 06:30:07,606 INFO:scputimes(user=3.5, nice=0.0, system=1.0, idle=94.5, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:30:13,608 INFO:Current CPU stats
+2014-07-17 06:30:13,609 INFO:scputimes(user=1.8, nice=0.0, system=0.8, idle=97.5, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:30:19,616 INFO:Current CPU stats
+2014-07-17 06:30:19,617 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=94.7, iowait=3.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:30:25,624 INFO:Current CPU stats
+2014-07-17 06:30:25,624 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.2, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:30:31,630 INFO:Current CPU stats
+2014-07-17 06:30:31,630 INFO:scputimes(user=1.2, nice=0.0, system=0.8, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:30:37,638 INFO:Current CPU stats
+2014-07-17 06:30:37,638 INFO:scputimes(user=1.0, nice=0.0, system=0.8, idle=97.7, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:30:43,645 INFO:Current CPU stats
+2014-07-17 06:30:43,646 INFO:scputimes(user=1.8, nice=0.0, system=0.8, idle=97.0, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:30:49,653 INFO:Current CPU stats
+2014-07-17 06:30:49,653 INFO:scputimes(user=1.5, nice=0.0, system=0.7, idle=97.8, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:30:55,658 INFO:Current CPU stats
+2014-07-17 06:30:55,658 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:31:01,665 INFO:Current CPU stats
+2014-07-17 06:31:01,665 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.2, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:31:07,673 INFO:Current CPU stats
+2014-07-17 06:31:07,673 INFO:scputimes(user=1.5, nice=0.0, system=0.7, idle=96.5, iowait=1.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:31:13,680 INFO:Current CPU stats
+2014-07-17 06:31:13,680 INFO:scputimes(user=2.3, nice=0.0, system=1.0, idle=96.3, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:31:19,687 INFO:Current CPU stats
+2014-07-17 06:31:19,688 INFO:scputimes(user=1.8, nice=0.0, system=0.8, idle=96.7, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:31:25,695 INFO:Current CPU stats
+2014-07-17 06:31:25,695 INFO:scputimes(user=1.8, nice=0.0, system=1.0, idle=96.5, iowait=0.7, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:31:31,702 INFO:Current CPU stats
+2014-07-17 06:31:31,702 INFO:scputimes(user=2.0, nice=0.0, system=1.0, idle=97.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:31:37,710 INFO:Current CPU stats
+2014-07-17 06:31:37,710 INFO:scputimes(user=3.2, nice=0.0, system=1.3, idle=92.0, iowait=3.2, irq=0.3, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:31:43,717 INFO:Current CPU stats
+2014-07-17 06:31:43,717 INFO:scputimes(user=3.3, nice=0.0, system=1.0, idle=95.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:31:49,725 INFO:Current CPU stats
+2014-07-17 06:31:49,725 INFO:scputimes(user=3.0, nice=0.0, system=1.2, idle=95.5, iowait=0.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:31:55,728 INFO:Current CPU stats
+2014-07-17 06:31:55,728 INFO:scputimes(user=2.7, nice=0.0, system=1.0, idle=96.0, iowait=0.2, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:32:01,734 INFO:Current CPU stats
+2014-07-17 06:32:01,734 INFO:scputimes(user=1.8, nice=0.0, system=0.8, idle=97.2, iowait=0.3, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:32:07,737 INFO:Current CPU stats
+2014-07-17 06:32:07,737 INFO:scputimes(user=0.7, nice=97.5, system=0.5, idle=1.2, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:32:13,742 INFO:Current CPU stats
+2014-07-17 06:32:13,742 INFO:scputimes(user=1.0, nice=25.0, system=0.5, idle=72.5, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:32:19,745 INFO:Current CPU stats
+2014-07-17 06:32:19,745 INFO:scputimes(user=1.0, nice=53.2, system=1.7, idle=44.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:32:25,750 INFO:Current CPU stats
+2014-07-17 06:32:25,751 INFO:scputimes(user=4.2, nice=25.0, system=1.5, idle=69.3, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:32:31,753 INFO:Current CPU stats
+2014-07-17 06:32:31,753 INFO:scputimes(user=3.0, nice=96.0, system=0.8, idle=0.3, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:32:37,758 INFO:Current CPU stats
+2014-07-17 06:32:37,758 INFO:scputimes(user=4.3, nice=0.0, system=1.2, idle=94.5, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:32:43,765 INFO:Current CPU stats
+2014-07-17 06:32:43,766 INFO:scputimes(user=7.5, nice=0.0, system=1.8, idle=90.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:32:49,773 INFO:Current CPU stats
+2014-07-17 06:32:49,773 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=95.3, iowait=2.2, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:32:55,780 INFO:Current CPU stats
+2014-07-17 06:32:55,781 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.2, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:33:01,788 INFO:Current CPU stats
+2014-07-17 06:33:01,789 INFO:scputimes(user=1.2, nice=0.0, system=1.0, idle=97.0, iowait=0.7, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:33:07,795 INFO:Current CPU stats
+2014-07-17 06:33:07,795 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.0, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:33:13,801 INFO:Current CPU stats
+2014-07-17 06:33:13,801 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:33:19,809 INFO:Current CPU stats
+2014-07-17 06:33:19,809 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=97.0, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:33:25,814 INFO:Current CPU stats
+2014-07-17 06:33:25,814 INFO:scputimes(user=3.7, nice=0.0, system=1.7, idle=93.8, iowait=0.7, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:33:31,818 INFO:Current CPU stats
+2014-07-17 06:33:31,818 INFO:scputimes(user=4.8, nice=0.0, system=1.3, idle=92.5, iowait=1.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:33:37,821 INFO:Current CPU stats
+2014-07-17 06:33:37,822 INFO:scputimes(user=6.8, nice=0.0, system=2.3, idle=91.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:33:43,829 INFO:Current CPU stats
+2014-07-17 06:33:43,829 INFO:scputimes(user=6.0, nice=0.0, system=2.8, idle=91.0, iowait=0.3, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:33:49,836 INFO:Current CPU stats
+2014-07-17 06:33:49,837 INFO:scputimes(user=12.2, nice=0.0, system=3.5, idle=82.0, iowait=2.2, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:33:55,843 INFO:Current CPU stats
+2014-07-17 06:33:55,844 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:34:01,848 INFO:Current CPU stats
+2014-07-17 06:34:01,848 INFO:scputimes(user=2.8, nice=0.0, system=1.3, idle=95.2, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:34:07,855 INFO:Current CPU stats
+2014-07-17 06:34:07,856 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=96.5, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:34:13,862 INFO:Current CPU stats
+2014-07-17 06:34:13,862 INFO:scputimes(user=30.7, nice=0.0, system=5.5, idle=63.8, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:34:19,869 INFO:Current CPU stats
+2014-07-17 06:34:19,870 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:34:25,873 INFO:Current CPU stats
+2014-07-17 06:34:25,874 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:34:31,881 INFO:Current CPU stats
+2014-07-17 06:34:31,881 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.8, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:34:37,888 INFO:Current CPU stats
+2014-07-17 06:34:37,889 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=97.5, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:34:43,896 INFO:Current CPU stats
+2014-07-17 06:34:43,896 INFO:scputimes(user=11.3, nice=0.0, system=3.0, idle=84.2, iowait=1.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:34:49,902 INFO:Current CPU stats
+2014-07-17 06:34:49,902 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.2, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:34:55,909 INFO:Current CPU stats
+2014-07-17 06:34:55,909 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:35:01,916 INFO:Current CPU stats
+2014-07-17 06:35:01,917 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=97.5, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:35:07,924 INFO:Current CPU stats
+2014-07-17 06:35:07,924 INFO:scputimes(user=5.2, nice=0.0, system=1.5, idle=93.2, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:35:13,930 INFO:Current CPU stats
+2014-07-17 06:35:13,930 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.2, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:35:19,937 INFO:Current CPU stats
+2014-07-17 06:35:19,938 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=97.3, iowait=0.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:35:25,941 INFO:Current CPU stats
+2014-07-17 06:35:25,941 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:35:31,948 INFO:Current CPU stats
+2014-07-17 06:35:31,949 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=97.5, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:35:37,954 INFO:Current CPU stats
+2014-07-17 06:35:37,954 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=97.5, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:35:43,961 INFO:Current CPU stats
+2014-07-17 06:35:43,961 INFO:scputimes(user=2.0, nice=0.0, system=0.8, idle=97.2, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:35:49,965 INFO:Current CPU stats
+2014-07-17 06:35:49,966 INFO:scputimes(user=2.0, nice=0.0, system=0.8, idle=97.0, iowait=0.2, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:35:55,972 INFO:Current CPU stats
+2014-07-17 06:35:55,972 INFO:scputimes(user=4.5, nice=0.0, system=2.5, idle=93.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:36:01,978 INFO:Current CPU stats
+2014-07-17 06:36:01,978 INFO:scputimes(user=2.8, nice=0.0, system=1.5, idle=95.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:36:07,984 INFO:Current CPU stats
+2014-07-17 06:36:07,984 INFO:scputimes(user=1.2, nice=0.0, system=1.0, idle=97.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:36:13,989 INFO:Current CPU stats
+2014-07-17 06:36:13,989 INFO:scputimes(user=1.8, nice=0.0, system=1.0, idle=97.2, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:36:19,994 INFO:Current CPU stats
+2014-07-17 06:36:19,994 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:36:26,001 INFO:Current CPU stats
+2014-07-17 06:36:26,002 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:36:32,008 INFO:Current CPU stats
+2014-07-17 06:36:32,009 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.2, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:36:38,012 INFO:Current CPU stats
+2014-07-17 06:36:38,012 INFO:scputimes(user=2.3, nice=0.0, system=1.0, idle=96.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:36:44,018 INFO:Current CPU stats
+2014-07-17 06:36:44,018 INFO:scputimes(user=2.3, nice=0.0, system=1.0, idle=95.0, iowait=1.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:36:50,024 INFO:Current CPU stats
+2014-07-17 06:36:50,025 INFO:scputimes(user=12.3, nice=0.0, system=4.0, idle=76.9, iowait=6.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:36:56,031 INFO:Current CPU stats
+2014-07-17 06:36:56,031 INFO:scputimes(user=15.5, nice=0.0, system=3.2, idle=80.2, iowait=0.7, irq=0.3, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:37:02,035 INFO:Current CPU stats
+2014-07-17 06:37:02,035 INFO:scputimes(user=2.2, nice=0.0, system=1.0, idle=96.5, iowait=0.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:37:08,042 INFO:Current CPU stats
+2014-07-17 06:37:08,042 INFO:scputimes(user=5.8, nice=0.0, system=2.5, idle=88.7, iowait=3.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:37:14,046 INFO:Current CPU stats
+2014-07-17 06:37:14,047 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:37:20,053 INFO:Current CPU stats
+2014-07-17 06:37:20,054 INFO:scputimes(user=1.2, nice=0.0, system=1.0, idle=97.5, iowait=0.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:37:26,057 INFO:Current CPU stats
+2014-07-17 06:37:26,057 INFO:scputimes(user=1.0, nice=0.0, system=0.5, idle=98.5, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:37:32,064 INFO:Current CPU stats
+2014-07-17 06:37:32,064 INFO:scputimes(user=2.0, nice=0.0, system=1.0, idle=97.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:37:38,067 INFO:Current CPU stats
+2014-07-17 06:37:38,068 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=98.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:37:44,075 INFO:Current CPU stats
+2014-07-17 06:37:44,076 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:37:50,078 INFO:Current CPU stats
+2014-07-17 06:37:50,078 INFO:scputimes(user=1.2, nice=0.0, system=0.7, idle=97.0, iowait=0.7, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:37:56,085 INFO:Current CPU stats
+2014-07-17 06:37:56,086 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=96.8, iowait=0.7, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:38:02,093 INFO:Current CPU stats
+2014-07-17 06:38:02,093 INFO:scputimes(user=1.5, nice=0.0, system=0.7, idle=97.0, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:38:08,100 INFO:Current CPU stats
+2014-07-17 06:38:08,101 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=96.7, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:38:14,108 INFO:Current CPU stats
+2014-07-17 06:38:14,108 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.0, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:38:20,113 INFO:Current CPU stats
+2014-07-17 06:38:20,113 INFO:scputimes(user=1.5, nice=0.0, system=0.7, idle=96.8, iowait=1.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:38:26,120 INFO:Current CPU stats
+2014-07-17 06:38:26,121 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.2, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:38:32,128 INFO:Current CPU stats
+2014-07-17 06:38:32,128 INFO:scputimes(user=2.0, nice=0.0, system=0.8, idle=96.5, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:38:38,135 INFO:Current CPU stats
+2014-07-17 06:38:38,136 INFO:scputimes(user=1.2, nice=0.0, system=0.7, idle=97.0, iowait=0.7, irq=0.3, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:38:44,142 INFO:Current CPU stats
+2014-07-17 06:38:44,142 INFO:scputimes(user=3.5, nice=0.0, system=1.3, idle=94.5, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:38:50,149 INFO:Current CPU stats
+2014-07-17 06:38:50,150 INFO:scputimes(user=1.7, nice=0.0, system=1.0, idle=96.0, iowait=1.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:38:56,155 INFO:Current CPU stats
+2014-07-17 06:38:56,156 INFO:scputimes(user=4.0, nice=0.0, system=1.5, idle=94.5, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:39:02,163 INFO:Current CPU stats
+2014-07-17 06:39:02,163 INFO:scputimes(user=2.0, nice=0.0, system=1.0, idle=96.8, iowait=0.0, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:39:08,167 INFO:Current CPU stats
+2014-07-17 06:39:08,168 INFO:scputimes(user=2.3, nice=0.0, system=1.0, idle=95.5, iowait=1.3, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:39:14,173 INFO:Current CPU stats
+2014-07-17 06:39:14,173 INFO:scputimes(user=2.0, nice=0.0, system=1.0, idle=95.3, iowait=1.5, irq=0.2, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:39:20,178 INFO:Current CPU stats
+2014-07-17 06:39:20,178 INFO:scputimes(user=2.0, nice=0.0, system=1.0, idle=97.0, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:39:26,185 INFO:Current CPU stats
+2014-07-17 06:39:26,185 INFO:scputimes(user=1.5, nice=0.0, system=0.8, idle=97.7, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:39:32,191 INFO:Current CPU stats
+2014-07-17 06:39:32,192 INFO:scputimes(user=1.8, nice=0.0, system=1.0, idle=97.2, iowait=0.0, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:39:38,199 INFO:Current CPU stats
+2014-07-17 06:39:38,199 INFO:scputimes(user=1.3, nice=0.0, system=0.8, idle=97.2, iowait=0.8, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:39:44,206 INFO:Current CPU stats
+2014-07-17 06:39:44,206 INFO:scputimes(user=1.8, nice=0.0, system=0.8, idle=93.7, iowait=0.8, irq=3.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:39:50,213 INFO:Current CPU stats
+2014-07-17 06:39:50,213 INFO:scputimes(user=2.2, nice=0.0, system=1.0, idle=96.2, iowait=0.5, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
+2014-07-17 06:39:56,220 INFO:Current CPU stats
+2014-07-17 06:39:56,221 INFO:scputimes(user=1.5, nice=0.0, system=1.0, idle=96.7, iowait=0.7, irq=0.0, softirq=0.0, steal=0.0, guest=0.0, guest_nice=0.0)
