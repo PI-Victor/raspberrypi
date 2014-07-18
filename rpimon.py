@@ -24,12 +24,6 @@ def load_debugger():
 
 class MyDaemon(Daemon):
         def __init__(self):
-                #introduce a bit of os compatibility here on the fly
-                #would have to be moved to a module later on
-                if not os.devnull:
-                        devnull = '/dev/null'
-                else:
-                        devnull = os.devnull
                 super(MyDaemon, self).__init__(pid_path)
                 
         def run(self):
