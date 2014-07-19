@@ -23,9 +23,6 @@ def load_debugger():
                             level = logging.DEBUG)
 
 class MyDaemon(Daemon):
-        def __init__(self):
-                super(MyDaemon, self).__init__(pid_path)
-                
         def run(self):
                 while True:
                         self.collect_stats()
@@ -37,7 +34,7 @@ class MyDaemon(Daemon):
                 logging.info(str(cpu_time))
 
 if __name__ == "__main__":
-        daemon = MyDaemon()
+        daemon = MyDaemon(pid_path)
         load_debugger()
         if len(sys.argv) == 2:
                 if 'start' == sys.argv[1]:
